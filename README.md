@@ -1,4 +1,4 @@
-# Project KeySync v2: Threat Simulation & Detection Blueprint
+# Project KeySync v2
 
 ##  Project Overview
 **KeySync v2 (Simulation)** is an educational security research repository designed to demonstrate the behavioral mechanics of modern information-stealing software. 
